@@ -1,0 +1,1 @@
+import{j as t,M as r,c as o}from"./index-b4da981c.js";import{f as n,b as e}from"./genHash-2d017b35.js";function s(){return t.jsx(r,{projectId:n,extId:e.runtime.id,callbackExtId:e.runtime.id,showNoNeedLoginWarning:!1})}o.createRoot(document.getElementById("app")).render(t.jsx(s,{}));
